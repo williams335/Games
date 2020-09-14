@@ -8,4 +8,4 @@ Quiz Culture Générale
 
 Ping Game
 
-Link: https://tender-lovelace-5891bb.netlify.app/
+Link: https://unruffled-swanson-b4d5a6.netlify.app/
