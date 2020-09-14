@@ -9,4 +9,3 @@ Quiz Culture Générale
 Ping Game
 
 Link: https://tender-lovelace-5891bb.netlify.app/
-# Games
