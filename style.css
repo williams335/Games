@@ -1,0 +1,131 @@
+body, html{
+			width: 100%;
+			height: 100%;
+			margin: 0 auto;
+		    overflow-x: hidden;
+		}
+
+		a {
+			  color: #6c757d;
+			}
+		a:hover{
+			color: #FFFFFF;
+			text-decoration: none;
+		}		    
+
+	.background{
+	  background-image: url("background.png");
+	  position: relative;
+	  background-position: center top;
+	  height: 100%;
+	  width:  100%;
+	  margin-bottom: 0;
+	}
+
+	.logo {
+    width: 10%;
+    height:  20%;
+    padding-left: 62px;
+	padding-top:38px;
+}
+
+	button{
+		width: 160px;
+        height: 40px;
+        opacity: 0.6;
+        border-radius: 31px;
+        border: solid 1px #707070;
+        background-color: #eff1f6;
+        color: #000000;
+        font-size: 13px;
+        margin-right: 10px;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 400;
+        border-radius: 15px;
+	}
+
+	.navbar{
+		background-color: none;	
+	}
+
+	.GameOnline{
+		width: 50%;
+	    height: 20%;
+	    font-family: 'Lovers Quarrel', cursive;
+	    font-size: 890%;
+	    font-stretch: normal;
+	    line-height: 2.18;
+	    letter-spacing: normal;
+	    text-align: center;
+	    color: #0c0000;
+		font-style: normal;
+		font-weight: 400;
+		margin: 15% auto;
+	}
+
+	.Game{
+		margin-left: 20%;
+		margin-top:  5%;
+		margin-bottom: 10%;
+		width: 50%;
+	}
+
+	footer{
+		width: 100%;
+        height: 60px;
+        background-color: #cad1dc;
+        font-family: 'Lovers Quarrel', cursive;
+        font-weight: bold;
+        padding-left: 50%;
+        position: absolute;
+        bottom: 0;
+	}
+
+	.contact{
+		margin-left: 41%;
+
+	}
+	#cont{
+			width: 676px;
+	        height: 150px;
+		    font-family: 'Sedgwick Ave', cursive;
+	        font-size: 25px;
+	       font-weight: normal;
+	       font-stretch: normal;
+	       font-style: normal;
+	       line-height: 2.18;
+	       letter-spacing: normal;
+	      color: #0c0000;
+
+	}
+	#email{
+		width: 676px;
+       height: 81px;
+	   font-family: 'Sedgwick Ave', cursive;
+       font-size: 20px;
+       font-weight: normal;
+       font-stretch: normal;
+       font-style: medium;
+       line-height: 1.4;
+       letter-spacing: normal;
+       padding-right: 100px;
+       color: #0c0000;
+       margin-left:-70px;
+       margin-top: -85px;
+	}
+	#num{
+		width: 676px;
+       height: 81px;
+	   font-family: 'Sedgwick Ave', cursive;
+       font-size: 20px;
+       font-weight: normal;
+       font-stretch: normal;
+       font-style: normal;
+       line-height: 1.4;
+       letter-spacing: normal;
+       padding-right: 100px;
+       color: #0c0000;
+       margin-left:-70px;
+       margin-top: -45px;
+	}
+	  
